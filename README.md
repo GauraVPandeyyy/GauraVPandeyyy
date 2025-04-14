@@ -19,17 +19,13 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-`JavaScript` `Java` `C (Basics)`
+**Languages:**    `JavaScript` `Java` `C (Basics)`
 
-**Frontend:**  
-`HTML` `CSS` `TailwindCSS` `Bootstrap` `SCSS`
+**Frontend:**    `HTML` `CSS` `TailwindCSS` `Bootstrap` `SCSS`
 
-**Backend:**  
-`PHP (Basic)` `MySQL`
+**Backend:**    `PHP (Basic)` `MySQL`
 
-**Tools & Platforms:**  
-`VS Code` `Git` `GitHub` `XAMPP` `Postman`  
+**Tools & Platforms:**    `VS Code` `Git` `GitHub` `XAMPP` `Postman`  
 `Hostinger` `Netlify` `GitHub Pages`
 
 ---
@@ -45,17 +41,22 @@
 ## 🚀 Projects
 
 ### 🔹 [Neurodentica](https://www.neurodentica.com)  
-*Clinic website with full-stack capabilities*  
+*Built frontend layout and fully developed the backend for form submissions and admin access.*
+*Designed and implemented secure admin login and data storage workflows.*
+*Integrated XAMPP for local testing and deployed the website on Hostinger.*
+
 Tech Stack: HTML, CSS, JS, Bootstrap, SCSS, PHP, SQL  
 📌 [GitHub Repo](https://github.com/GauraVPandeyyy/neuro-dentica)
 
 ### 🔹 [ByteVerse](https://gauravpandeyyy.github.io/ByteVerse)  
-*Tech event landing page with modern design*  
+*Created an aesthetic, responsive landing page for a tech event.*
+*Implemented a dark-themed hero section with modern visuals and center-focused messaging.*
 Tech Stack: HTML, CSS, JavaScript  
 📌 [GitHub Repo](https://github.com/GauraVPandeyyy/ByteVerse)
 
 ### 🔹 [ToDesktop](https://gauravpandeyyy.github.io/ToDesktop)  
-*Promo page for converting web apps to desktop apps*  
+*Developed a static promotional website for the ToDesktop platform.*
+*Focused on clean UI and responsive design for desktop users.*  
 Tech Stack: HTML, CSS, JavaScript  
 📌 [GitHub Repo](https://github.com/GauraVPandeyyy/ToDesktop)
 
