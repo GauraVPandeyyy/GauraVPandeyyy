@@ -13,7 +13,6 @@
 - 🔍 Actively practicing **Data Structures & Algorithms (Java)**  
 - 🧩 Participated in **HackWithIndia** – Top 5,000 out of 25,000+  
 - 🧠 Fast learner with a strong problem-solving mindset  
-- 🎯 Goal: Crack a **10 LPA job** by graduation (2026)
 
 ---
 
